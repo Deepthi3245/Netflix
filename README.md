@@ -5,11 +5,11 @@ This dashboard offers a detailed analysis of Netflix's streaming data, allowing 
 
 **Key Features:**
 
-1)Content Performance Analysis:
+1) Content Performance Analysis:
 Visualizes the performance of different Netflix titles in terms of viewership metrics.
 Allows users to track the popularity and streaming hours of various shows and movies.
 
-2)User Demographics:
+2) User Demographics:
 Analyzes the breakdown of Netflix users based on demographics such as age group, region, and user type (e.g., free trial, paid subscribers).
 
 3) Trending Titles:
